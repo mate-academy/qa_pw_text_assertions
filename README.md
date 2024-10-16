@@ -1,1 +1,1 @@
-# qa_pw_text_assertions
+Playwright: practice working with expect(locator).toContainText() assertion. 
